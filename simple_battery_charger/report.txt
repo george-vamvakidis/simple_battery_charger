@@ -1,0 +1,67 @@
+Info: Processing component "R14:/61A8B702:".
+Info: Processing component "D12:/61A8B735:".
+Info: Processing component "PS1:/619F14BB:".
+Info: Processing component "R15:/61A8B74A:".
+Info: Processing component "Q1:/619F3984:Package_TO_SOT_THT:TO-126-3_Vertical".
+Info: Processing component "Q2:/61A79B1A:Package_TO_SOT_THT:TO-126-3_Vertical".
+Info: Processing component "Q3:/61A8B6EC:Package_TO_SOT_THT:TO-126-3_Vertical".
+Info: Processing component "R1:/61A13020:".
+Info: Processing component "R2:/61A15950:".
+Info: Processing component "C1:/61A0C499:".
+Info: Processing component "R3:/619ECA4A:".
+Info: Processing component "U5:/61A8B3B6:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Info: Processing component "R4:/619F29C3:".
+Info: Processing component "R5:/61A084EC:".
+Info: Processing component "R13:/61A8B6F8:".
+Info: Processing component "R6:/61A09245:".
+Info: Processing component "R7:/61A33488:".
+Info: Processing component "R12:/61A8B6E2:".
+Info: Processing component "R8:/61A79B10:".
+Info: Processing component "R9:/61A79B26:".
+Info: Processing component "R11:/61A79B78:".
+Info: Processing component "R10:/61A79B30:".
+Info: Processing component "D10:/61A8B71E:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "C2:/61A0DAF9:".
+Info: Processing component "U4:/61A79AEC:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Info: Processing component "Cell1:/619E9DAF:".
+Info: Processing component "U3:/619EFA4E:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Info: Processing component "Cell2:/619F02B7:".
+Info: Processing component "Cell3:/619F0B74:".
+Info: Processing component "U2:/61A17157:".
+Info: Processing component "D1:/61A16C46:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D2:/61A1B669:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D3:/61A1C018:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D4:/61A20FFA:".
+Info: Processing component "D5:/61A79B42:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D6:/61A79B4C:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D7:/61A79B56:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D8:/61A79B63:".
+Info: Processing component "U1:/61A0F63D:".
+Info: Processing component "D9:/61A8B714:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Info: Processing component "D11:/61A8B728:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Error: Cannot add U1 (no footprint assigned).
+Error: Cannot add R14 (no footprint assigned).
+Error: Cannot add R13 (no footprint assigned).
+Error: Cannot add U2 (no footprint assigned).
+Error: Cannot add R12 (no footprint assigned).
+Error: Cannot add R11 (no footprint assigned).
+Error: Cannot add R15 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add PS1 (no footprint assigned).
+Error: Cannot add C1 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add Cell1 (no footprint assigned).
+Error: Cannot add Cell2 (no footprint assigned).
+Error: Cannot add Cell3 (no footprint assigned).
+Error: Cannot add D4 (no footprint assigned).
+Error: Cannot add D8 (no footprint assigned).
+Error: Cannot add D12 (no footprint assigned).
+Error: Cannot add R10 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add R4 (no footprint assigned).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add R9 (no footprint assigned).
